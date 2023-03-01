@@ -1,0 +1,24 @@
+.perfil-content {
+  margin: 34px 0;
+  text-align: center;
+  color: var(--cor-secundaria);
+  font-family: 'Kanit', sans-serif;
+}
+
+.perfil-img {
+  display: block;
+  margin: auto;
+  width: 96px;
+  height: 96px;
+  background-image: url('./src/assets/profile.png');
+  background-size: cover;
+  border-radius: 50%;
+}
+
+
+
+
+
+
+/* FONTS */
+@import url('https://fonts.googleapis.com/css2?family=Kanit:ital,wght@1,500&display=swap');
